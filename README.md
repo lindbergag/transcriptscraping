@@ -1,4 +1,5 @@
 # Transcript Scraping
+# Web scraping to collect a corpus of Podcast transcripts.
 
 This is a collection of simple python scripts that gathers the text transcript of podcasts from the host website. Given the nature of web-scraping, each script is bespoke, and details for that podcast's script are included in the folder with the project.
 
